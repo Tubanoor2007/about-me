@@ -1,0 +1,71 @@
+.body{
+    
+}
+   
+
+.title{
+    color:purple;
+    text-align: center;
+    font-size: 28px;
+    font-style: italic;
+}
+
+
+.play{
+    max-width: 1200px;
+    grid-gap:200px 200px;
+    grid-template-columns: auto auto auto auto;
+    padding: 30px;
+    display:grid;  
+}
+.list{
+    background-color: rgb(255, 255, 240);
+    border-radius: 20px;
+    text-align: center;
+    border: 8px solid black;
+    width: 204px;
+    height: 402px;
+}
+.T{
+    color:purple;
+    text-align: center;
+    font-size: 22px;
+}
+.R{
+    text-decoration: line-through;
+    
+}
+@media only screen and(max-width:600px){
+    .play{
+        max-width: 500px;
+        grid-gap:200px 200px;
+        grid-template-columns: auto auto ;
+        padding: 30px;
+        display:grid;  
+    
+}
+}
+@media only screen and(min-width:600px){
+    .play{
+        min-width: 1200px;
+        grid-gap:200px 200px;
+        grid-template-columns: auto auto  ;
+        padding: 30px;
+        display:grid;  
+    
+        
+}
+}
+.r{
+    color:purple;
+    text-align: center;
+    font-size: 28px;
+    font-style:italic;
+}
+
+
+    
+
+
+
+

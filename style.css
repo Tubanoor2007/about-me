@@ -1,0 +1,104 @@
+.body{
+
+      
+}
+
+
+.title{
+    position: relative; 
+    background-color: rgba(255, 246, 192, 0.836); 
+    border-radius: 50px;
+    width: 550px;
+    height: 300px;
+}
+.t1{
+    position:absolute ;
+    width:20%;
+    height:20%;
+    top: 150px;
+    left: 30px;
+}
+.t2{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    top: 150px;
+    left: 200px;
+}
+.t3{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    top: 300px;
+    left:200px;
+}
+
+
+.t4{
+
+    position: absolute;
+    width: 30%;
+    height: 20%;
+    top: 150px;
+    left:360px;
+}
+.t5{
+    position: absolute;
+    color: brown;
+    right: 300px;
+    width: 350px;
+    top:150px;
+}
+.t6{
+    position: fixed;
+    right: 50px;
+    top: 100px;
+    
+}
+.t7{
+    position: absolute;
+    top: 450px;
+}
+.t8{
+    position: absolute;
+    top: 450px;
+    left:200px;
+}
+.t9{
+    position: absolute;
+    top: 450px;
+    left: 400px;
+}
+.t10{
+    position: absolute;
+    top: 600px;
+}
+.t11{
+    position: absolute;
+    top: 600px;
+    left: 200px;
+
+}
+.t12{
+    position: absolute;
+    top: 600px;
+    left: 350px;
+
+}
+.t13{
+    text-align: center;
+    color: brown;
+}
+.t14{
+    position: fixed;
+    right: 50px;
+    top: 350px;
+    
+}
+.t15{
+    position: fixed;
+    right: 50px;
+    top: 550px;
+}
+
+
